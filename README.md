@@ -1,3 +1,5 @@
+# [Banner Gif](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+
 <h1 align="center">Greetings 👋, I'm Tanish Kamboj</h1>
 <h3 align="center">I am a Web Developer, trying improve my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.wattpad.com/8dbbaebb0a5aecd9290d1daf95f918b8ab0c27ce/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f30533638535151394d64676d71413d3d2d35342e3136336434616363616230376161653738303531353133383039382e676966">
