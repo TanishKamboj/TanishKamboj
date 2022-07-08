@@ -1,4 +1,3 @@
-# [Banner Gif](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 
 <h1 align="center">Greetings 👋, I'm Tanish Kamboj</h1>
 <h3 align="center">I am a Web Developer, trying improve my skills.</h3>
